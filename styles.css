@@ -6,6 +6,10 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+ul {
+    list-style-type: none;
+}
+
 body {
     background-color: #FDFDFF;
     display: flex;
@@ -24,4 +28,10 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 500px;
 }
+
+#progress {
+    background-color: palevioletred;
+}
+
