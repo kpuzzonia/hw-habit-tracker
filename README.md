@@ -1,12 +1,10 @@
 # hw-habit-tracker
 
-## Color Palette
-- #393D3F (Gunmetal)
-- #FDFDFF (White)
-- #C6C5B9 (Silver)
-- #62929E (Air Force Blue)
-- #546A7B (Blue Slate)
+## Plans for app:
+- Stage 1: Simple checklist. Use JavaScript event listeners to change completion amount at the top.
 
-## Log
-### 11/21/2025
-Created files and planned out overall direction the app will be taking. Note: I do not like the color palette and will change the styling in the future.
+- Stage 2: Habits are placed into an array and displayed using JavaScript.
+
+- Stage 3 : Add option to delete and add habits that are tracked.
+
+- Stage 4: Provide number of days completed and streaks. 
