@@ -4,6 +4,20 @@
     margin: 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
+    border-radius: 5px;
+}
+
+#progress {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #f6f6f6;
+}
+
+#counter-display {
+    font-weight: 600;
+    font-size: 30px;
 }
 
 ul {
@@ -18,11 +32,11 @@ body {
 }
 
 h1 {
-    color: #546a7B;
+    color: #452c63;
 }
 
 .card {
-    background-color: #C6C5B9;
+    background-color: #f6f6f6;
     margin: 40px;
     padding: 20px;
     display: flex;
@@ -31,7 +45,23 @@ h1 {
     width: 500px;
 }
 
+#habits {
+    background-color: #FDFDFF;
+    padding: 15px;
+}
+
 #progress {
     background-color: palevioletred;
+}
+
+li {
+    background-color: #f6f6f6;
+    margin: 10px;
+    padding: 15px;
+}
+
+input[type="checkbox"] {
+  transform: scale(1.5);
+  margin-right: 8px;
 }
 
