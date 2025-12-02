@@ -65,3 +65,8 @@ input[type="checkbox"] {
   margin-right: 8px;
 }
 
+#reset-button {
+    border: .5px solid grey;
+    padding: 5px;
+}
+
