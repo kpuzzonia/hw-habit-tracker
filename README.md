@@ -8,3 +8,9 @@
 - Stage 3 : Add option to delete and add habits that are tracked.
 
 - Stage 4: Provide number of days completed and streaks. 
+
+## Work log:
+
+### 12/2/2025
+- Added reset button and coded reset functionality using JavaScript. 
+- Next: Code function that will add up completed tasks on change.
