@@ -13,3 +13,4 @@ PSEUDOCODE
 function resetChecklist() {
     document.getElementById('habit-checklist').reset();
 }
+
