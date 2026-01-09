@@ -16,14 +16,14 @@
         <section id="habit-tracker" class="card">
             <div id="habit-tracker-container">
                 <div id="progress">
-                    <p id="counter-display"><spa id="counter"></span> / 5</p>
+                    <p id="counter-display"><span id="counter">0</span> / 5</p>
                     <p>Habits completed today</p>
                 </div>
                 <div id="habits">
                     <h2>
                         Daily Habits
                     </h2>
-                    <form id="habit-checklist">
+                    <form id="habit-checklist" onchange="habitChange()">
                         <ul>
                             <li>
                                 <label for="habit1">
